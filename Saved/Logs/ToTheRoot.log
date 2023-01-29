@@ -710,3 +710,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.29-06.54.04:129][219]LogSavePackage: Moving '../../../../../../Users/songz/Documents/GitHub/ToTheRoot/Saved/MRHJREJ6H7USQYWF1KO8F6B781C8D0448EFD45D45D8993C94963E5.tmp' to '../../../../../../Users/songz/Documents/GitHub/ToTheRoot/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
 [2023.01.29-06.54.04:176][219]AssetCheck: New page: Asset Save: StaticMeshActor_0
 [2023.01.29-06.54.04:176][219]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.01.29-06.55.49:068][598]LogDerivedDataCache: C:/Users/songz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.137 and deleted 10696 file(s) with total size 4798 MiB.
